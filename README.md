@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Victor Freitas! 👋
 
-<!--
-**Victorsf25/Victorsf25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional com 7 anos de experiência em análise de processos e estou em transição de carreira para a área de Análise de Sistemas e Engenharia de Software.
 
-Here are some ideas to get you started:
+Atualmente, estou cursando **Engenharia de Software** e focando meus estudos em desenvolvimento back-end com Python e análise de dados com SQL e Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 O que estou estudando:
+* 🐍 Python (Django, Pandas)
+* 📊 SQL (MySQL) e NoSQL
+* ⚛️ JavaScript (React.js, Node.js)
+* ☁️ Ferramentas: Salesforce, Power BI, Git
+
+---
+
+### 📫 Como me encontrar:
+* **LinkedIn:** [https://www.linkedin.com/in/victorfreitas-dev]
